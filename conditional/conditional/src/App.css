@@ -1,0 +1,18 @@
+.main {
+    width: 100%;
+    justify-content: space-around;
+}
+
+.side img {
+    height: 300px;
+}
+
+.collag {
+    display: flex;
+
+    padding: 10px
+}
+
+.collag img {
+    height: 200px;
+}

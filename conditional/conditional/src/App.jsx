@@ -1,5 +1,6 @@
 import Neww from "./components/New"
-
+import Flifkart from "./components/flifkart"
+import "./app.css"
 function App() {
 
 
@@ -8,6 +9,8 @@ function App() {
 
 
       <Neww />
+      <Flifkart />
+
     </>
   )
 }
